@@ -1,3 +1,14 @@
+
+#welcome-section {
+  height: 100vh;
+}
+
+@media (max-width: 600px) {
+    body {
+      background-color: lightblue;
+    }
+  }
+
 @import url('https://fonts.googleapis.com/css2?family=Sansita+Swashed:wght@600&display=swap');
 
 #nav-contents {

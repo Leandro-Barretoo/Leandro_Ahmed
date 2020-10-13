@@ -26,3 +26,10 @@ INSTRUCTIONS:
 
 // Once you have read the above messages, you can delete all comments. 
 "use strict";
+
+
+// let navBar = document.getElementById('navbar');
+
+// navBar.style.position = 'fixed';
+// navBar.style.top =  '0';
+
