@@ -9,3 +9,39 @@
     }
   }
 
+@import url('https://fonts.googleapis.com/css2?family=Sansita+Swashed:wght@600&display=swap');
+
+#nav-contents {
+    list-style: none;
+    margin: 2px;
+    display: flex;
+    padding: 15px;
+    justify-content: space-around;
+    font-family: Sansita Swashed, sans-serif;
+    background-color: aquamarine;
+}
+
+body {
+    margin: 10px;
+    padding: 10px;
+}
+
+h1 {
+    font-family: Sansita Swashed, sans-serif;
+    text-align: center;
+}
+
+#names {
+    font-family: Sansita Swashed, sans-serif;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    color: rgb(165, 154, 154);
+}
+
+

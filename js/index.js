@@ -28,8 +28,8 @@ INSTRUCTIONS:
 "use strict";
 
 
-let navBar = document.getElementById('navbar');
+// let navBar = document.getElementById('navbar');
 
-navBar.style.position = 'fixed';
-navBar.style.top =  '0';
+// navBar.style.position = 'fixed';
+// navBar.style.top =  '0';
 
